@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    >
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/color_font_item_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        tools:text="########"
+        android:gravity="center"
+        >
+    </TextView>
+
+    <com.facefont.songhang.facefont.View.AutoResizeTextView
+        android:layout_gravity="center"
+        android:id="@+id/color_font_item_text_view_target"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        tools:text="########"
+        android:gravity="center"
+        android:maxLines="1"
+        android:background="@drawable/color_font_backgroud_shape"
+        >
+    </com.facefont.songhang.facefont.View.AutoResizeTextView>
+</FrameLayout>
