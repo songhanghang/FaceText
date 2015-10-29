@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.fragment;
+package com.facefont.songhang.emojitext.fragment;
 
 
 import android.os.Bundle;
@@ -8,9 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.facefont.songhang.facefont.R;
-import com.facefont.songhang.facefont.adapter.ColorFontAdapter;
-import com.facefont.songhang.facefont.bean.FaceFontBean;
+import com.facefont.songhang.emojitext.R;
+import com.facefont.songhang.emojitext.adapter.ColorFontAdapter;
+import com.facefont.songhang.emojitext.bean.FaceFontBean;
 
 import java.util.ArrayList;
 

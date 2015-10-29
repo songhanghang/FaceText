@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.adapter;
+package com.facefont.songhang.emojitext.adapter;
 
 
 

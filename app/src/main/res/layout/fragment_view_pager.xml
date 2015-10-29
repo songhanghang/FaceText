@@ -3,10 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.facefont.songhang.facefont.fragment.ViewPagerFragment">
+    tools:context="com.facefont.songhang.emojitext.fragment.ViewPagerFragment">
 
 
-    <com.facefont.songhang.facefont.View.CirclePageIndicator
+    <com.facefont.songhang.emojitext.View.CirclePageIndicator
         android:id="@+id/emoji_circlepageIndicator"
         android:layout_width="match_parent"
         android:layout_height="10dp"

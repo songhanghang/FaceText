@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont;
+package com.facefont.songhang.emojitext;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

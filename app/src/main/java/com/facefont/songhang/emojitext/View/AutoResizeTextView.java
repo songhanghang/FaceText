@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.View;
+package com.facefont.songhang.emojitext.View;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.res.Resources;

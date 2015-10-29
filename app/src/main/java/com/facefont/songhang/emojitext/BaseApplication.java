@@ -1,7 +1,6 @@
-package com.facefont.songhang.facefont;
+package com.facefont.songhang.emojitext;
 
 import android.app.Application;
-import android.os.Bundle;
 
 /**
  * Created by songhang on 15/10/29.

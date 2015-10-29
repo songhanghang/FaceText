@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.util;
+package com.facefont.songhang.emojitext.util;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
@@ -7,11 +7,11 @@ import android.view.LayoutInflater;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-import com.facefont.songhang.facefont.BaseApplication;
-import com.facefont.songhang.facefont.bean.FaceFontBean;
-import com.facefont.songhang.facefont.R;
-import com.facefont.songhang.facefont.bean.FaceFontPool;
-import com.facefont.songhang.facefont.fragment.ColorFontFragment;
+import com.facefont.songhang.emojitext.BaseApplication;
+import com.facefont.songhang.emojitext.bean.FaceFontBean;
+import com.facefont.songhang.emojitext.R;
+import com.facefont.songhang.emojitext.bean.FaceFontPool;
+import com.facefont.songhang.emojitext.fragment.ColorFontFragment;
 
 import java.util.ArrayList;
 import java.util.List;

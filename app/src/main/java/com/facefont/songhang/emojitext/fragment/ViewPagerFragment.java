@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.fragment;
+package com.facefont.songhang.emojitext.fragment;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -9,10 +9,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.facefont.songhang.facefont.R;
-import com.facefont.songhang.facefont.View.CirclePageIndicator;
-import com.facefont.songhang.facefont.adapter.SmiliesViewPagerAdapter;
-import com.facefont.songhang.facefont.util.FaceFontUtil;
+import com.facefont.songhang.emojitext.R;
+import com.facefont.songhang.emojitext.View.CirclePageIndicator;
+import com.facefont.songhang.emojitext.adapter.SmiliesViewPagerAdapter;
+import com.facefont.songhang.emojitext.util.FaceFontUtil;
 
 import java.util.ArrayList;
 

@@ -19,7 +19,7 @@
         >
     </TextView>
 
-    <com.facefont.songhang.facefont.View.AutoResizeTextView
+    <com.facefont.songhang.emojitext.View.AutoResizeTextView
         android:layout_gravity="center"
         android:id="@+id/color_font_item_text_view_target"
         android:layout_width="wrap_content"
@@ -32,5 +32,5 @@
         android:maxLines="1"
         android:background="@drawable/color_font_backgroud_shape"
         >
-    </com.facefont.songhang.facefont.View.AutoResizeTextView>
+    </com.facefont.songhang.emojitext.View.AutoResizeTextView>
 </FrameLayout>

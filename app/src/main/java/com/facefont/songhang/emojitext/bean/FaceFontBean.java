@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.bean;
+package com.facefont.songhang.emojitext.bean;
 
 import java.io.Serializable;
 

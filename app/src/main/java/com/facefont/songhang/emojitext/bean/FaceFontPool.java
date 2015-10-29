@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.bean;
+package com.facefont.songhang.emojitext.bean;
 
 /**
  * Created by songhang on 15/10/29.

@@ -1,4 +1,4 @@
-package com.facefont.songhang.facefont.adapter;
+package com.facefont.songhang.emojitext.adapter;
 
 import android.content.Context;
 import android.view.Gravity;
@@ -10,10 +10,10 @@ import android.widget.BaseAdapter;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.facefont.songhang.facefont.BaseApplication;
-import com.facefont.songhang.facefont.util.FaceFontUtil;
-import com.facefont.songhang.facefont.bean.FaceFontBean;
-import com.facefont.songhang.facefont.R;
+import com.facefont.songhang.emojitext.BaseApplication;
+import com.facefont.songhang.emojitext.util.FaceFontUtil;
+import com.facefont.songhang.emojitext.bean.FaceFontBean;
+import com.facefont.songhang.emojitext.R;
 import java.util.ArrayList;
 import java.util.List;
 
